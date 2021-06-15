@@ -12,13 +12,13 @@ Skill list
 - backend : php(Ver.5、7)、C#、Java
 - backend framework:Laravel(ver.5 ~ 7)、.Net
 - Frontend : HTML、CSS、JS、Vue2.0、JQuery
-- Structure Query Language: Sub query, (left|right|inner) join、Recurssive Query、Store Procedure、Transaction
+- Structure Query Language: Sub query, (left | right | inner) join、Recurssive Query、Store Procedure、Transaction
 - Package management Tools: Composer、npm、yarn、Nuget、gem、pip
 - Web Server: Apache
 - Database: Microsoft SQL Server
 - Testing tool: selenium、JMeter、Apache (ab|abs)、phpUnit
 - Version Control: SVN、Git, CMD or Tortoise.
-
+- Editor:Vim、VSCode、Sublime
 
 
 
